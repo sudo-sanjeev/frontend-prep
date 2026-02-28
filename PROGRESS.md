@@ -13,14 +13,16 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) problems.
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
 | 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ |
-| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | - |
-| 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | - |
-| 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | - |
+| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ○ |
+| 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ |
+| 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ |
 | 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | - |
 | 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ |
 | 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | - |
 | 8 | [can you shuffle() an array?](https://bigfrontend.dev/problem/can-you-shuffle-an-array) | easy | - |
 | ... | ... | ... | ... |
+
+**Summary (problems 1–8):** 4 solved ✓ · 1 in progress ○ · 3 not started -
 
 *Tip: Copy a row when you complete a problem and update the status.*
 
