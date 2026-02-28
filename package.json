@@ -1,0 +1,14 @@
+{
+  "name": "frontend-prep",
+  "version": "1.0.0",
+  "description": "BFE.dev JavaScript interview preparation",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:problem": "vitest run -t"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.0"
+  }
+}
