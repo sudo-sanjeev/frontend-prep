@@ -24,10 +24,11 @@ function curry(fn) {
   function curriedInternal(prev) {
     return function curried(...args) {
       const allArgs = mergeArgs(prev, args);
-      const hasPlaceholder = allArgs.some(a => a === ph);
+      const head = allArgs.slice(0, fn.length);
+      const hasPlaceholder = head.some(a => a === ph);
 
-      if (!hasPlaceholder && allArgs.length >= fn.length) {
-        return fn.apply(this, allArgs);
+      if (allArgs.length >= fn.length && !hasPlaceholder) {
+        return fn.apply(this, [...head]);
       }
       return (...moreArgs) => {
         return curriedInternal(allArgs).apply(this, moreArgs);
@@ -37,6 +38,4 @@ function curry(fn) {
   return curriedInternal([]);
 }
 
-curry.placeholder = Symbol();
-
-export { curry };
+curry.placeholder = Symbol()
