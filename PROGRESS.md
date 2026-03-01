@@ -13,16 +13,18 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) problems.
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
 | 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ |
-| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ○ |
+| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ✓ |
 | 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ |
 | 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ |
 | 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | - |
 | 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ |
 | 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | - |
 | 8 | [can you shuffle() an array?](https://bigfrontend.dev/problem/can-you-shuffle-an-array) | easy | - |
+| 16 | [create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter) | medium | ✓ |
+| 176 | [undefined to null](https://bigfrontend.dev/problem/undefined-to-null) | easy | ✓ |
 | ... | ... | ... | ... |
 
-**Summary (problems 1–8):** 4 solved ✓ · 1 in progress ○ · 3 not started -
+**Summary:** 7 solved ✓ · 3 not started -
 
 *Tip: Copy a row when you complete a problem and update the status.*
 
@@ -34,3 +36,4 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) problems.
 4. **Lodash-style:** get (85), set (156), chunk (131), cloneDeep (63)
 5. **DOM:** event delegation (117), traverse (104), next sibling (89)
 6. **Algorithms:** binary search (37), merge sort (41), quick sort (43)
+7. **System design:** Event Emitter (16)
