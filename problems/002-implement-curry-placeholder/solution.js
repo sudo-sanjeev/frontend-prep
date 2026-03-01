@@ -38,4 +38,6 @@ function curry(fn) {
   return curriedInternal([]);
 }
 
-curry.placeholder = Symbol()
+curry.placeholder = Symbol();
+
+export { curry };
