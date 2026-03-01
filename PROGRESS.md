@@ -7,22 +7,24 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) problems.
 - `✓` = Solved (with tests passing)
 - `○` = Attempted / In progress
 - `-` = Not started
+- **Last revision** = from git history
+- **Next revision** = when to revisit (spaced repetition)
 
 ## Problems (1–179)
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ |
-| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ✓ |
-| 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ |
-| 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ |
-| 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | - |
-| 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ |
-| 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | - |
-| 8 | [can you shuffle() an array?](https://bigfrontend.dev/problem/can-you-shuffle-an-array) | easy | - |
-| 16 | [create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter) | medium | ✓ |
-| 176 | [undefined to null](https://bigfrontend.dev/problem/undefined-to-null) | easy | ✓ |
-| ... | ... | ... | ... |
+| # | Problem | Difficulty | Status | Last revision | Next revision |
+|---|---------|------------|--------|---------------|---------------|
+| 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ | 2026-02-28 | |
+| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ✓ | 2026-03-01 | |
+| 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ | 2026-02-28 | |
+| 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ | 2026-02-28 | |
+| 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | - | | |
+| 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ | 2026-02-28 | |
+| 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | - | | |
+| 8 | [can you shuffle() an array?](https://bigfrontend.dev/problem/can-you-shuffle-an-array) | easy | - | | |
+| 16 | [create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter) | medium | ✓ | 2026-03-01 | |
+| 176 | [undefined to null](https://bigfrontend.dev/problem/undefined-to-null) | easy | ✓ | 2026-03-01 | |
+| ... | ... | ... | ... | ... | ... |
 
 **Summary:** 7 solved ✓ · 3 not started -
 
