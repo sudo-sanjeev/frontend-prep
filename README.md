@@ -12,6 +12,8 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
+**7 done** · **45 remaining** · 52 total
+
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
 ### Phase 1: Functions & Lodash (must-know)
@@ -100,20 +102,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 59 | [create a browser history](https://bigfrontend.dev/problem/create-a-browser-history) | medium | - | | |
 | 169 | [LRU - Chrome storage eviction](https://bigfrontend.dev/problem/lru-chrome-storage-eviction) | medium | - | | |
 
-### Phase 8: Algorithms (core)
-
-| # | Problem | Difficulty | Status | Last revision | Next revision |
-|---|---------|------------|--------|---------------|---------------|
-| 37 | [implement Binary Search](https://bigfrontend.dev/problem/implement-Binary-Search-Unique) | easy | - | | |
-| 40 | [implement Bubble Sort](https://bigfrontend.dev/problem/implement-Bubble-Sort) | easy | - | | |
-| 41 | [implement Merge Sort](https://bigfrontend.dev/problem/implement-Merge-Sort) | medium | - | | |
-| 43 | [implement Quick Sort](https://bigfrontend.dev/problem/implement-Quick-Sort) | medium | - | | |
-| 47 | [reverse a linked list](https://bigfrontend.dev/problem/Reverse-a-linked-list) | easy | - | | |
-| 100 | [detect circle in linked list](https://bigfrontend.dev/problem/detect-circle-in-linked-list) | easy | - | | |
-| 81 | [merge sorted arrays](https://bigfrontend.dev/problem/merge-sorted-arrays) | easy | - | | |
-| 168 | [move zeros](https://bigfrontend.dev/problem/move-zeros) | medium | - | | |
-
-### Phase 9: Strings & Utilities
+### Phase 8: Strings & Utilities
 
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
@@ -122,7 +111,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 102 | [validate string of parentheses](https://bigfrontend.dev/problem/validate-parenthesis) | easy | - | | |
 | 125 | [implement classNames()](https://bigfrontend.dev/problem/implement-classnames) | medium | - | | |
 
-### Phase 10: Bonus (if time)
+### Phase 9: Bonus (if time)
 
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
@@ -133,7 +122,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
 ---
 
-**Syllabus total:** ~60 must-do problems across 10 phases.
+**Syllabus total:** 52 problems across 9 phases.
 
 ## Commands
 
