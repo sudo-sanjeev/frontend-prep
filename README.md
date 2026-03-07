@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**12 done** · **40 remaining** · 52 total
+**13 done** · **39 remaining** · 52 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -36,7 +36,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 67 | [create your own Promise](https://bigfrontend.dev/problem/create-your-own-Promise) | medium | - | | |
-| 32 | [implement Promise.all()](https://bigfrontend.dev/problem/implement-Promise-all) | medium | - | | |
+| 32 | [implement Promise.all()](https://bigfrontend.dev/problem/implement-Promise-all) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 35 | [implement Promise.race()](https://bigfrontend.dev/problem/implement-Promise-race) | easy | - | | |
 | 34 | [implement Promise.any()](https://bigfrontend.dev/problem/implement-Promise-any) | medium | - | | |
 | 33 | [implement Promise.allSettled()](https://bigfrontend.dev/problem/implement-Promise-allSettled) | medium | - | | |
