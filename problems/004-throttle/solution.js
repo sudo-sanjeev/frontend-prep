@@ -4,28 +4,28 @@
  * @returns {(...args:any[]) => any}
  */
 function throttle(func, wait) {
-  let waiting=false;
-  let nextArgs=null;
+  let iswaiting = false;
+  let nextArgs = null;
 
   function cooldown() {
-    setTimeout(()=>{
-      if(nextArgs) {
-        func.apply(this,nextArgs);
-        nextArgs=null;
+    setTimeout(() => {
+      iswaiting = false;
+      if (nextArgs) {
+        func.apply(this, nextArgs);
+        nextArgs = null;
       }
-      waiting=false;
-    },wait)
+    }, wait);
   }
 
-  return function(...args) {
-    if(!waiting) {
-      func.apply(this,args);
-      waiting=true;
+  return function (...args) {
+    if (!iswaiting) {
+      iswaiting = true;
+      func.apply(this, args);
       cooldown.apply(this);
       return;
     }
-    nextArgs=args;
-  }
+    nextArgs = args;
+  };
 }
 
 export { throttle };
