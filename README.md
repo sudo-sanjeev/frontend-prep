@@ -21,7 +21,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ | 2026-02-28 | 2026-03-14 |
-| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ✓ | 2026-03-01 | 2026-03-08 |
+| 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ✓ | 2026-03-08 | 2026-03-15 |
 | 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ | 2026-03-08 | 2026-03-15 |
 | 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | - | | |
 | 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ | 2026-03-02 | 2026-03-16 |
@@ -97,7 +97,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
-| 16 | [create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter) | medium | ✓ | 2026-03-01 | 2026-03-08 |
+| 16 | [create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter) | medium | ✓ | 2026-03-08 | 2026-03-15 |
 | 52 | [create a middleware system](https://bigfrontend.dev/problem/create-a-middleware-system) | medium | - | | |
 | 59 | [create a browser history](https://bigfrontend.dev/problem/create-a-browser-history) | medium | - | | |
 | 169 | [LRU - Chrome storage eviction](https://bigfrontend.dev/problem/lru-chrome-storage-eviction) | medium | - | | |
