@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**19 done** · **33 remaining** · 52 total
+**20 done** · **32 remaining** · 52 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -42,7 +42,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 33 | [implement Promise.allSettled()](https://bigfrontend.dev/problem/implement-Promise-allSettled) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 123 | [implement Promise.prototype.finally()](https://bigfrontend.dev/problem/implement-Promise-prototype-finally) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 64 | [auto-retry Promise on rejection](https://bigfrontend.dev/problem/retry-promise-on-rejection) | medium | - | | |
-| 159 | [implement promisify()](https://bigfrontend.dev/problem/promisify) | easy | - | | |
+| 159 | [implement promisify()](https://bigfrontend.dev/problem/promisify) | easy | ✓ | 2026-03-09 | 2026-03-23 |
 | 29 | [implement async helper - sequence()](https://bigfrontend.dev/problem/implement-async-helper-sequence) | medium | - | | |
 | 30 | [implement async helper - parallel()](https://bigfrontend.dev/problem/implement-async-helper-parallel) | medium | - | | |
 | 36 | [create a fake timer - setTimeout](https://bigfrontend.dev/problem/create-a-fake-timer) | medium | - | | |
