@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**20 done** · **32 remaining** · 52 total
+**21 done** · **31 remaining** · 52 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -26,7 +26,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | - | | |
 | 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ | 2026-03-02 | 2026-03-16 |
 | 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | - | | |
-| 11 | [what is Composition? create a pipe()](https://bigfrontend.dev/problem/what-is-composition-create-a-pipe) | easy | - | | |
+| 11 | [what is Composition? create a pipe()](https://bigfrontend.dev/problem/what-is-composition-create-a-pipe) | easy | ✓ | 2026-03-09 | 2026-03-23 |
 | 14 | [implement memoization - memo()](https://bigfrontend.dev/problem/implement-general-memoization-function) | medium | - | | |
 | 46 | [implement _.once()](https://bigfrontend.dev/problem/implement-once) | medium | - | | |
 | 122 | [implement memoizeOne()](https://bigfrontend.dev/problem/implement-memoizeOne) | medium | - | | |
