@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**21 done** · **31 remaining** · 52 total
+**22 done** · **30 remaining** · 52 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -68,7 +68,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 60 | [create your own `new` operator](https://bigfrontend.dev/problem/create-your-own-new-operator) | easy | - | | |
-| 61 | [create Function.prototype.call](https://bigfrontend.dev/problem/create-call-method) | medium | - | | |
+| 61 | [create Function.prototype.call](https://bigfrontend.dev/problem/create-call-method) | medium | ✓ | 2026-03-09 | 2026-03-16 |
 | 62 | [create Function.prototype.apply](https://bigfrontend.dev/problem/create-apply-method) | medium | - | | |
 | 55 | [implement Function.prototype.bind](https://bigfrontend.dev/problem/implement-bindFunction-bindFunction) | medium | - | | |
 | 94 | [implement Object.create](https://bigfrontend.dev/problem/implement-your-own-Object-create) | easy | - | | |
