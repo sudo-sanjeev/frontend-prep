@@ -36,9 +36,9 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 67 | [create your own Promise](https://bigfrontend.dev/problem/create-your-own-Promise) | medium | - | | |
-| 32 | [implement Promise.all()](https://bigfrontend.dev/problem/implement-Promise-all) | medium | ✓ | 2026-03-04 | 2026-03-11 |
+| 32 | [implement Promise.all()](https://bigfrontend.dev/problem/implement-Promise-all) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 35 | [implement Promise.race()](https://bigfrontend.dev/problem/implement-Promise-race) | easy | ✓ | 2026-03-04 | 2026-03-18 |
-| 34 | [implement Promise.any()](https://bigfrontend.dev/problem/implement-Promise-any) | medium | ✓ | 2026-03-04 | 2026-03-11 |
+| 34 | [implement Promise.any()](https://bigfrontend.dev/problem/implement-Promise-any) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 33 | [implement Promise.allSettled()](https://bigfrontend.dev/problem/implement-Promise-allSettled) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 123 | [implement Promise.prototype.finally()](https://bigfrontend.dev/problem/implement-Promise-prototype-finally) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 64 | [auto-retry Promise on rejection](https://bigfrontend.dev/problem/retry-promise-on-rejection) | medium | - | | |
@@ -54,13 +54,13 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 |---|---------|------------|--------|---------------|---------------|
 | 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ | 2026-03-08 | 2026-03-15 |
 | 146 | [implement Array.prototype.reduce()](https://bigfrontend.dev/problem/implement-Array-prototype-reduce) | medium | ✓ | 2026-03-04 | 2026-03-11 |
-| 151 | [implement Array.prototype.map()](https://bigfrontend.dev/problem/implement-Array-prototype-map) | medium | ✓ | 2026-03-02 | 2026-03-09 |
+| 151 | [implement Array.prototype.map()](https://bigfrontend.dev/problem/implement-Array-prototype-map) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 85 | [implement _.get()](https://bigfrontend.dev/problem/implement-lodash-get) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 156 | [implement _.set()](https://bigfrontend.dev/problem/lodash-set) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 131 | [implement _.chunk()](https://bigfrontend.dev/problem/implement-lodash-chunk) | medium | ✓ | 2026-03-09 | 2026-03-16 |
 | 63 | [create _.cloneDeep()](https://bigfrontend.dev/problem/create-cloneDeep) | medium | ✓ | 2026-03-09 | 2026-03-10 |
 | 69 | [implement _.isEqual()](https://bigfrontend.dev/problem/implement-deep-equal-isEqual) | medium | - | | |
-| 66 | [remove duplicates from an array](https://bigfrontend.dev/problem/remove-duplicates-from-an-array) | medium | ✓ | 2026-03-02 | 2026-03-09 |
+| 66 | [remove duplicates from an array](https://bigfrontend.dev/problem/remove-duplicates-from-an-array) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 176 | [undefined to null](https://bigfrontend.dev/problem/undefined-to-null) | easy | ✓ | 2026-03-01 | 2026-03-15 |
 
 ### Phase 4: JavaScript Fundamentals
