@@ -53,7 +53,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ | 2026-03-08 | 2026-03-15 |
-| 146 | [implement Array.prototype.reduce()](https://bigfrontend.dev/problem/implement-Array-prototype-reduce) | medium | ✓ | 2026-03-04 | 2026-03-11 |
+| 146 | [implement Array.prototype.reduce()](https://bigfrontend.dev/problem/implement-Array-prototype-reduce) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 151 | [implement Array.prototype.map()](https://bigfrontend.dev/problem/implement-Array-prototype-map) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 85 | [implement _.get()](https://bigfrontend.dev/problem/implement-lodash-get) | medium | ✓ | 2026-03-04 | 2026-03-11 |
 | 156 | [implement _.set()](https://bigfrontend.dev/problem/lodash-set) | medium | ✓ | 2026-03-04 | 2026-03-11 |
