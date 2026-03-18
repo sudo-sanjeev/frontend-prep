@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**28 done** · **22 remaining** · 50 total
+**29 done** · **21 remaining** · 50 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -41,7 +41,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 34 | [implement Promise.any()](https://bigfrontend.dev/problem/implement-Promise-any) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 33 | [implement Promise.allSettled()](https://bigfrontend.dev/problem/implement-Promise-allSettled) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 123 | [implement Promise.prototype.finally()](https://bigfrontend.dev/problem/implement-Promise-prototype-finally) | medium | ✓ | 2026-03-14 | 2026-03-21 |
-| 64 | [auto-retry Promise on rejection](https://bigfrontend.dev/problem/retry-promise-on-rejection) | medium | ○ | | |
+| 64 | [auto-retry Promise on rejection](https://bigfrontend.dev/problem/retry-promise-on-rejection) | medium | ✓ | 2026-03-18 | 2026-03-25 |
 | 159 | [implement promisify()](https://bigfrontend.dev/problem/promisify) | easy | ✓ | 2026-03-09 | 2026-03-23 |
 | 29 | [implement async helper - sequence()](https://bigfrontend.dev/problem/implement-async-helper-sequence) | medium | - | | |
 | 30 | [implement async helper - parallel()](https://bigfrontend.dev/problem/implement-async-helper-parallel) | medium | - | | |
