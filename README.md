@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**29 done** · **21 remaining** · 50 total
+**30 done** · **20 remaining** · 50 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -46,7 +46,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 29 | [implement async helper - sequence()](https://bigfrontend.dev/problem/implement-async-helper-sequence) | medium | - | | |
 | 30 | [implement async helper - parallel()](https://bigfrontend.dev/problem/implement-async-helper-parallel) | medium | - | | |
 | 36 | [create a fake timer - setTimeout](https://bigfrontend.dev/problem/create-a-fake-timer) | medium | - | | |
-| 28 | [implement clearAllTimeout()](https://bigfrontend.dev/problem/implement-clearAllTimeout) | easy | - | | |
+| 28 | [implement clearAllTimeout()](https://bigfrontend.dev/problem/implement-clearAllTimeout) | easy | ✓ | 2026-03-14 | 2026-03-28 |
 
 ### Phase 3: Array & Object (Lodash-style)
 
