@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**30 done** · **20 remaining** · 50 total
+**31 done** · **19 remaining** · 50 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -87,7 +87,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 117 | [event delegation](https://bigfrontend.dev/problem/event-delegation) | medium | - | | |
-| 104 | [traverse DOM level by level](https://bigfrontend.dev/problem/Traverse-DOM-level-by-level) | medium | - | | |
+| 104 | [traverse DOM level by level](https://bigfrontend.dev/problem/Traverse-DOM-level-by-level) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 89 | [Next Right Sibling](https://bigfrontend.dev/problem/Next-Right-Sibiling) | easy | - | | |
 | 19 | [find corresponding node in two identical DOM trees](https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree) | easy | - | | |
 
