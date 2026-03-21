@@ -12,7 +12,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**33 done** · **17 remaining** · 50 total
+**34 done** · **16 remaining** · 50 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -105,7 +105,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 8 | [can you shuffle() an array?](https://bigfrontend.dev/problem/can-you-shuffle-an-array) | easy | - | | |
-| 95 | [implement String.prototype.trim()](https://bigfrontend.dev/problem/implement-String-prototype-trim) | medium | - | | |
+| 95 | [implement String.prototype.trim()](https://bigfrontend.dev/problem/implement-String-prototype-trim) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 102 | [validate string of parentheses](https://bigfrontend.dev/problem/validate-parenthesis) | easy | - | | |
 | 125 | [implement classNames()](https://bigfrontend.dev/problem/implement-classnames) | medium | - | | |
 
