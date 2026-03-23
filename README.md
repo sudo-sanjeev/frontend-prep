@@ -2,6 +2,8 @@
 
 Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScript problems.
 
+🎓 **Studying theory too?** Check out [THEORY-QUESTIONS.md](THEORY-QUESTIONS.md) for 40 curated interview questions to study alongside coding problems.
+
 ## How to use
 
 - `✓` = Solved (with tests passing)
