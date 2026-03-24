@@ -24,8 +24,8 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 |---|---------|------------|--------|---------------|---------------|
 | 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ | 2026-03-14 | 2026-03-28 |
 | 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ✓ | 2026-03-24 | 2026-03-31 |
-| 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ | 2026-03-14 | 2026-03-21 |
-| 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | ✓ | 2026-03-16 | 2026-03-23 |
+| 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ | 2026-03-24 | 2026-03-31 |
+| 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | ✓ | 2026-03-24 | 2026-03-31 |
 | 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ | 2026-03-02 | 2026-03-16 |
 | 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | ✓ | 2026-03-16 | 2026-03-23 |
 | 11 | [what is Composition? create a pipe()](https://bigfrontend.dev/problem/what-is-composition-create-a-pipe) | easy | ✓ | 2026-03-09 | 2026-03-23 |
