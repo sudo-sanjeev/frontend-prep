@@ -29,7 +29,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 6 | [implement basic debounce()](https://bigfrontend.dev/problem/implement-basic-debounce) | easy | ✓ | 2026-03-02 | 2026-03-16 |
 | 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | ✓ | 2026-03-16 | 2026-03-23 |
 | 11 | [what is Composition? create a pipe()](https://bigfrontend.dev/problem/what-is-composition-create-a-pipe) | easy | ✓ | 2026-03-09 | 2026-03-23 |
-| 14 | [implement memoization - memo()](https://bigfrontend.dev/problem/implement-general-memoization-function) | medium | ✓ | 2026-03-17 | 2026-03-24 |
+| 14 | [implement memoization - memo()](https://bigfrontend.dev/problem/implement-general-memoization-function) | medium | ✓ | 2026-03-24 | 2026-03-31 |
 | 46 | [implement _.once()](https://bigfrontend.dev/problem/implement-once) | medium | - | | |
 | 122 | [implement memoizeOne()](https://bigfrontend.dev/problem/implement-memoizeOne) | medium | - | | |
 
