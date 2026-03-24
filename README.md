@@ -38,7 +38,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 67 | [create your own Promise](https://bigfrontend.dev/problem/create-your-own-Promise) | medium | - | | |
-| 32 | [implement Promise.all()](https://bigfrontend.dev/problem/implement-Promise-all) | medium | ✓ | 2026-03-14 | 2026-03-21 |
+| 32 | [implement Promise.all()](https://bigfrontend.dev/problem/implement-Promise-all) | medium | ✓ | 2026-03-24 | 2026-03-31 |
 | 35 | [implement Promise.race()](https://bigfrontend.dev/problem/implement-Promise-race) | easy | ✓ | 2026-03-04 | 2026-03-18 |
 | 34 | [implement Promise.any()](https://bigfrontend.dev/problem/implement-Promise-any) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 33 | [implement Promise.allSettled()](https://bigfrontend.dev/problem/implement-Promise-allSettled) | medium | ✓ | 2026-03-14 | 2026-03-21 |
