@@ -97,7 +97,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
-| 16 | [create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter) | medium | ✓ | 2026-03-08 | 2026-03-15 |
+| 16 | [create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter) | medium | ✓ | 2026-03-26 | 2026-04-02 |
 | 52 | [create a middleware system](https://bigfrontend.dev/problem/create-a-middleware-system) | medium | - | | |
 | 59 | [create a browser history](https://bigfrontend.dev/problem/create-a-browser-history) | medium | - | | |
 | 169 | [LRU - Chrome storage eviction](https://bigfrontend.dev/problem/lru-chrome-storage-eviction) | medium | - | | |
