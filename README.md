@@ -60,7 +60,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 85 | [implement _.get()](https://bigfrontend.dev/problem/implement-lodash-get) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 156 | [implement _.set()](https://bigfrontend.dev/problem/lodash-set) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 131 | [implement _.chunk()](https://bigfrontend.dev/problem/implement-lodash-chunk) | medium | ✓ | 2026-03-26 | 2026-04-02 |
-| 63 | [create _.cloneDeep()](https://bigfrontend.dev/problem/create-cloneDeep) | medium | ✓ | 2026-03-09 | 2026-03-10 |
+| 63 | [create _.cloneDeep()](https://bigfrontend.dev/problem/create-cloneDeep) | medium | ✓ | 2026-03-27 | 2026-04-03 |
 | 69 | [implement _.isEqual()](https://bigfrontend.dev/problem/implement-deep-equal-isEqual) | medium | - | | |
 | 66 | [remove duplicates from an array](https://bigfrontend.dev/problem/remove-duplicates-from-an-array) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 176 | [undefined to null](https://bigfrontend.dev/problem/undefined-to-null) | easy | ✓ | 2026-03-26 | 2026-04-09 |
