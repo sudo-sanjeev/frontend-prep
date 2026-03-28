@@ -22,7 +22,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
-| 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ | 2026-03-14 | 2026-03-28 |
+| 1 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | easy | ✓ | 2026-03-28 | 2026-04-11 |
 | 2 | [implement curry() with placeholder](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | medium | ✓ | 2026-03-24 | 2026-03-31 |
 | 4 | [implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle) | medium | ✓ | 2026-03-24 | 2026-03-31 |
 | 5 | [implement throttle() with leading & trailing](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option) | medium | ✓ | 2026-03-24 | 2026-03-31 |
@@ -55,7 +55,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ | 2026-03-25 | 2026-04-01 |
-| 146 | [implement Array.prototype.reduce()](https://bigfrontend.dev/problem/implement-Array-prototype-reduce) | medium | ✓ | 2026-03-14 | 2026-03-21 |
+| 146 | [implement Array.prototype.reduce()](https://bigfrontend.dev/problem/implement-Array-prototype-reduce) | medium | ✓ | 2026-03-28 | 2026-04-04 |
 | 151 | [implement Array.prototype.map()](https://bigfrontend.dev/problem/implement-Array-prototype-map) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 85 | [implement _.get()](https://bigfrontend.dev/problem/implement-lodash-get) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 156 | [implement _.set()](https://bigfrontend.dev/problem/lodash-set) | medium | ✓ | 2026-03-14 | 2026-03-21 |
@@ -91,7 +91,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 117 | [event delegation](https://bigfrontend.dev/problem/event-delegation) | medium | - | | |
 | 104 | [traverse DOM level by level](https://bigfrontend.dev/problem/Traverse-DOM-level-by-level) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 89 | [Next Right Sibling](https://bigfrontend.dev/problem/Next-Right-Sibiling) | easy | ✓ | 2026-03-14 | 2026-03-28 |
-| 19 | [find corresponding node in two identical DOM trees](https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree) | easy | ✓ | 2026-03-14 | 2026-03-28 |
+| 19 | [find corresponding node in two identical DOM trees](https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree) | easy | ✓ | 2026-03-28 | 2026-04-11 |
 
 ### Phase 7: System Design & Patterns
 
