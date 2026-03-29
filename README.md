@@ -107,7 +107,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | # | Problem | Difficulty | Status | Last revision | Next revision |
 |---|---------|------------|--------|---------------|---------------|
 | 8 | [can you shuffle() an array?](https://bigfrontend.dev/problem/can-you-shuffle-an-array) | easy | - | | |
-| 95 | [implement String.prototype.trim()](https://bigfrontend.dev/problem/implement-String-prototype-trim) | medium | ✓ | 2026-03-14 | 2026-03-21 |
+| 95 | [implement String.prototype.trim()](https://bigfrontend.dev/problem/implement-String-prototype-trim) | medium | ✓ | 2026-03-29 | 2026-04-05 |
 | 102 | [validate string of parentheses](https://bigfrontend.dev/problem/validate-parenthesis) | easy | - | | |
 | 125 | [implement classNames()](https://bigfrontend.dev/problem/implement-classnames) | medium | - | | |
 
