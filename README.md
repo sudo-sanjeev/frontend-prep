@@ -39,7 +39,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 |---|---------|------------|--------|---------------|---------------|
 | 67 | [create your own Promise](https://bigfrontend.dev/problem/create-your-own-Promise) | medium | - | | |
 | 32 | [implement Promise.all()](https://bigfrontend.dev/problem/implement-Promise-all) | medium | ✓ | 2026-03-24 | 2026-03-31 |
-| 35 | [implement Promise.race()](https://bigfrontend.dev/problem/implement-Promise-race) | easy | ✓ | 2026-03-04 | 2026-03-18 |
+| 35 | [implement Promise.race()](https://bigfrontend.dev/problem/implement-Promise-race) | easy | ✓ | 2026-03-29 | 2026-04-12 |
 | 34 | [implement Promise.any()](https://bigfrontend.dev/problem/implement-Promise-any) | medium | ✓ | 2026-03-29 | 2026-04-05 |
 | 33 | [implement Promise.allSettled()](https://bigfrontend.dev/problem/implement-Promise-allSettled) | medium | ✓ | 2026-03-29 | 2026-04-05 |
 | 123 | [implement Promise.prototype.finally()](https://bigfrontend.dev/problem/implement-Promise-prototype-finally) | medium | ✓ | 2026-03-28 | 2026-04-04 |
@@ -56,7 +56,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 |---|---------|------------|--------|---------------|---------------|
 | 3 | [implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat) | medium | ✓ | 2026-03-25 | 2026-04-01 |
 | 146 | [implement Array.prototype.reduce()](https://bigfrontend.dev/problem/implement-Array-prototype-reduce) | medium | ✓ | 2026-03-28 | 2026-04-04 |
-| 151 | [implement Array.prototype.map()](https://bigfrontend.dev/problem/implement-Array-prototype-map) | medium | ✓ | 2026-03-14 | 2026-03-21 |
+| 151 | [implement Array.prototype.map()](https://bigfrontend.dev/problem/implement-Array-prototype-map) | medium | ✓ | 2026-03-29 | 2026-04-05 |
 | 85 | [implement _.get()](https://bigfrontend.dev/problem/implement-lodash-get) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 156 | [implement _.set()](https://bigfrontend.dev/problem/lodash-set) | medium | ✓ | 2026-03-14 | 2026-03-21 |
 | 131 | [implement _.chunk()](https://bigfrontend.dev/problem/implement-lodash-chunk) | medium | ✓ | 2026-03-26 | 2026-04-02 |
