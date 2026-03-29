@@ -4,26 +4,27 @@
  * @return {Promise<Array<{status: 'fulfilled', value: any} | {status: 'rejected', reason: any}>>}
  */
 export function allSettled(promises) {
-  return new Promise((resolve,reject)=> {
-    if(promises.length==0)return resolve([]);
-
-    const result = [];
-    let count=0;
-    promises.forEach((promise,idx)=> {
+  return new Promise((resolve,reject) => {
+    if(promises.length===0)resolve([]);
+    const n=promises.length;
+    const ans=new Array(n);
+    let curCount=0;
+    promises.forEach((promise,idx) => {
       Promise.resolve(promise).then((val)=> {
-        count++;
-        result[idx]={
-          status: "fulfilled",
+        ans[idx] = {
+          status: 'fulfilled', 
           value: val
+        };
+      }).catch((err)=> {
+        ans[idx]= {
+            status: 'rejected', 
+            reason: err
+          };
+      }).finally(() => {
+        curCount++;
+        if(curCount ===n) {
+          resolve(ans);
         }
-        if (count === promises.length) resolve(result)
-      },(err)=> {
-        count++;
-        result[idx]= {
-          status: "rejected",
-          reason: err
-        }
-        if (count === promises.length) resolve(result)
       })
     })
   })
