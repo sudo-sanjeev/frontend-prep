@@ -143,3 +143,5 @@ frontend-prep/
 │   └── ...
 └── README.md
 ```
+
+*Syllabus dates last updated: 2026-03-30.*
