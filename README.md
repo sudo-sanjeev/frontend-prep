@@ -14,7 +14,7 @@ Track your progress through [BFE.dev](https://bigfrontend.dev/problem) JavaScrip
 
 ## Must-Do Syllabus (Frontend Interview)
 
-**35 done** · **15 remaining** · 50 total
+**38 done** · **19 remaining** · 57 total
 
 Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
@@ -30,8 +30,8 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 7 | [implement debounce() with leading & trailing](https://bigfrontend.dev/problem/implement-debounce-with-leading-and-trailing-option) | medium | ✓ | 2026-03-25 | 2026-04-01 |
 | 11 | [what is Composition? create a pipe()](https://bigfrontend.dev/problem/what-is-composition-create-a-pipe) | easy | ✓ | 2026-03-09 | 2026-03-23 |
 | 14 | [implement memoization - memo()](https://bigfrontend.dev/problem/implement-general-memoization-function) | medium | ✓ | 2026-03-24 | 2026-03-31 |
-| 46 | [implement _.once()](https://bigfrontend.dev/problem/implement-once) | medium | - | | |
-| 122 | [implement memoizeOne()](https://bigfrontend.dev/problem/implement-memoizeOne) | medium | - | | |
+| 46 | [implement _.once()](https://bigfrontend.dev/problem/implement-once) | medium | ✓ | 2026-04-05 | 2026-04-12 |
+| 122 | [implement memoizeOne()](https://bigfrontend.dev/problem/implement-memoizeOne) | medium | ✓ | 2026-04-05 | 2026-04-12 |
 
 ### Phase 2: Promises & Async
 
@@ -47,7 +47,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 | 159 | [implement promisify()](https://bigfrontend.dev/problem/promisify) | easy | ✓ | 2026-03-09 | 2026-03-23 |
 | 29 | [implement async helper - sequence()](https://bigfrontend.dev/problem/implement-async-helper-sequence) | medium | - | | |
 | 30 | [implement async helper - parallel()](https://bigfrontend.dev/problem/implement-async-helper-parallel) | medium | - | | |
-| 36 | [create a fake timer - setTimeout](https://bigfrontend.dev/problem/create-a-fake-timer) | medium | - | | |
+| 36 | [create a fake timer - setTimeout](https://bigfrontend.dev/problem/create-a-fake-timer) | medium | ✓ | 2026-04-05 | 2026-04-12 |
 | 28 | [implement clearAllTimeout()](https://bigfrontend.dev/problem/implement-clearAllTimeout) | easy | ✓ | 2026-03-14 | 2026-03-28 |
 
 ### Phase 3: Array & Object (Lodash-style)
@@ -122,7 +122,7 @@ Curated from 179 BFE.dev JavaScript problems. Order by priority.
 
 ---
 
-**Syllabus total:** 50 problems across 9 phases.
+**Syllabus total:** 57 problems across 9 phases.
 
 ## Commands
 
@@ -144,4 +144,4 @@ frontend-prep/
 └── README.md
 ```
 
-*Syllabus dates last updated: 2026-03-30.*
+*Syllabus dates last updated: 2026-04-05.*
