@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 
-# Same table shape as THEORY-QUESTIONS: | # | [title](url) | diff | status | ...
+# Table shape: | # | [title](url) | diff | status | ...
 ROW_RE = re.compile(
     r"^\|\s*(\d+)\s*\|\s*(\[[^\]]+\]\([^)]+\))\s*\|\s*(\w+)\s*\|\s*([✓○\-])\s*\|"
 )
